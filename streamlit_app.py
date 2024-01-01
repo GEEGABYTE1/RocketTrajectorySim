@@ -22,7 +22,7 @@ psi0 = st.sidebar.number_input("Initial Flight Path Angle (deg)", value=0.3) * d
 # Main content
 st.title("Rocket Trajectory Simulation 🚀")
 st.write(
-    "A Rocket Trajectory Simulation inspired by my work at UTAT. " 
+    "A Rocket Trajectory Simulation inspired by my work at UTAT created from scratch. " 
     "With the given rocket parameters on the left, one can find relevant information about the behaviour of the rocket upon liftoff under the **'Results'** section of this page. "
     "Please note that the simulation only considers **single stage** rockets and does **not consider re-entry**. " 
 
